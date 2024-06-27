@@ -1,0 +1,5 @@
+Remember to install neccessary dependencies
+Setting up MySQL database- refer to SQL Documentation
+Also, change databaseConfig.js in model folder to reflect your own MySQL Database settings
+Files in this folder should run as long as they are in the same folder with proper names
+Current dependencies: express,mysql and body-parser
